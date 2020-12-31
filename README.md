@@ -1,5 +1,5 @@
-# Visualizing-and-Predicting-NFL-Scores-Machine-Learning-
-In addition to analyzing and visualizing NFL scores, I used Logistic and Multiple Linear Regression to predict the outcomes of NFL games.
+# Visualizing-and-Predicting-NFL-Scores-Machine-Learning-In-Python
+In addition to analyzing and visualizing NFL scores, I used Logistic and Multiple Linear Regression to predict the outcomes of NFL games using Python and JupyterNotebooks.
 
 - The data used here comes from the NFL scores dataset from kaggle.com (https://www.kaggle.com/tobycrabtree/nfl-scores-and-betting-data?select=spreadspoke.R)
 
